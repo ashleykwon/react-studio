@@ -1,9 +1,21 @@
 /* Add styling for your page here */
 
 .App {
-
+    background-color: wheat;
 }
 
 .BakeryItem {
-  
+  padding: 3em;
+  background-color: lightpink;
+  /* margin-right: 80em; */
+  margin-bottom: 5em;
+}
+
+.CartItem{
+    padding-left: 3em;
+}
+
+img{
+    width: 30em;
+    border-radius: 1em;
 }
